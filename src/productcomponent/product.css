@@ -1,0 +1,17 @@
+.product {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+    width: 300px; /* Adjust width as needed */
+  }
+  
+  .product-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product-details {
+    margin-top: 8px;
+  }
+  
